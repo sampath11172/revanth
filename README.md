@@ -119,6 +119,3 @@ ul {
 ol{
     color: aquamarine;
 }
-table{
-    margin: auto;
-}
