@@ -50,7 +50,7 @@ info RR
     <div>
         <form class="rangtt">
             <label for="name">enter your name:</label>
-            <input type="text" id="name" name="name"></input>
+            <input type="text" id="name" name="name">
         </form>
     </div>
 </body>
